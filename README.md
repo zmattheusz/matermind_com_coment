@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mastermind — Projeto Itaú
 
 Jogo Mastermind no navegador: o jogador tenta adivinhar a sequência de cores; a API retorna **apenas quantas posições estão corretas** (cor e lugar). O código secreto só é exibido ao fim da partida.
@@ -140,3 +141,6 @@ Console: http://localhost:8080/api/h2-console (com o backend ativo) — JDBC `jd
 ## API
 
 Documentação interativa: http://localhost:8080/api/swagger-ui.html (backend em execução).
+=======
+"# matermind_com_coment" 
+>>>>>>> cfde9b541e132f61a083207f3a283323abe5e7b2
